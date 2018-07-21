@@ -1,2 +1,2 @@
 # hubu
-Something about hubu.edu.cn
+Something interesting about hubu.edu.cn
